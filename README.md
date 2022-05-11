@@ -9,4 +9,4 @@
 > #### IntelliJ
 
 ## Server CODE 보기!
-> <a href="https://github.com/donggeonL/product-sell-website-react"> Product-sell-SpringBoot GITHUB 주소  </a>
+> <a href="https://github.com/donggeonL/product-sell-website-server"> Product-sell-SpringBoot GITHUB 주소  </a>
